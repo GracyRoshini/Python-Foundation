@@ -1,5 +1,0 @@
-fp=open('one.txt','r')
-fp.seek(5)
-print(fp.tell())
-print(fp.read())
-fp.close()
